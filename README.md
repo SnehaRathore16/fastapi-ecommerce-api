@@ -134,3 +134,6 @@ http://127.0.0.1:8000/redoc
 * Python | SQL | FastAPI | Backend Development
 
 ⭐ If you found this project useful, consider giving it a star.
+<img width="1877" height="726" alt="image" src="https://github.com/user-attachments/assets/0fab189d-516e-40c0-9b6b-118bbe0a807a" />
+<img width="1872" height="758" alt="image" src="https://github.com/user-attachments/assets/7fd105d9-079e-4814-aa66-edab72c26396" />
+
